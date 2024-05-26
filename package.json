@@ -10,15 +10,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bcrypt": "^5.1.1",
     "dotenv": "^16.4.5",
     "env": "^0.0.2",
     "express": "^4.19.2",
     "express-handlebars": "^7.1.2",
+    "jsonwebtoken": "^9.0.2",
     "mongodb": "^6.6.0",
     "mongoose": "^8.3.3",
     "router": "^1.3.8"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mesalm/node.js-project.git"
